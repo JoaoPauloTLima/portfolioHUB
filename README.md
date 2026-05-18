@@ -14,6 +14,3 @@ Portfólio profissional desenvolvido utilizando GitHub.
 - Sistema de monitoramento CFTV
 - Exercícios em Python
 - Banco de Dados
-
-## GitHub Pages
-Settings > Pages > Deploy from branch
