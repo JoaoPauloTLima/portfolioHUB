@@ -1,0 +1,7 @@
+Comandos Git:
+
+git init
+git add .
+git commit -m "Versão 1.0"
+git branch -M main
+git push
